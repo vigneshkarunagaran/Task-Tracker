@@ -11,7 +11,7 @@ Task Tracker is a python CustomTkinter UI-library based application that allows 
 # Setup
 Install the module with pip:
 ```
-pip3 install -r lib.txt
+pip3 install -r libs.txt
 ```
 ---
 # Screenshots
@@ -33,16 +33,17 @@ pip3 install -r lib.txt
 ## Features
 ### Delete Task
 ![image](https://user-images.githubusercontent.com/59251885/209943978-009e4faf-c468-4a24-a0d2-be2732b801cc.png)
- Enables you to select one or more tasks and delete them.
+Enables you to select one or more tasks and delete them.
 ### Mark as Done
 ![image](https://user-images.githubusercontent.com/59251885/209944080-389dac92-a64d-4e3e-9deb-153019ccf494.png)
-  Enables you to select one or more tasks and mark them as Done.
+Enables you to select one or more tasks and mark them as Done.
 ### Mark as UnDone
 ![image](https://user-images.githubusercontent.com/59251885/209944025-0b28a877-bf6d-4cd6-b29f-e118dea9ca0b.png)
-  Enables you to select one or more tasks and mark them as not done.
+Enables you to select one or more tasks and mark them as not done.
 ### Add New Task
 ![image](https://user-images.githubusercontent.com/59251885/209944693-e36b14a9-1020-459d-851c-e63012a00606.png)
-  Enables you to add new task with To-Do state by default
+Enables you to add new task with To-Do state by default.
+
 ---
 
 Refrence:
